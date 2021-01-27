@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="todolist-test" uuid="34b4f1a9-b094-454c-ba24-1ed28e285d9a">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:D:\Projects\whatineedtodo\todolist-test.db</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="todolist" uuid="045d45ed-fad6-4e34-be09-9a95aecda01c">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:D:\Projects\whatineedtodo\todolist.db</jdbc-url>
+    </data-source>
+  </component>
+</project>

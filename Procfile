@@ -1,1 +1,1 @@
-web: gunicorn todolist:app
+web: gunicorn --bind 0.0.0.0:$PORT todolist:app
